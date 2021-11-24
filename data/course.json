@@ -1,0 +1,42 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Sociology",
+      "Community Development"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Public Economics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0b3bdef0-6a54-97ee-8b14-68c518aa8acb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Community-Owned Enterprise and Civic Participation",
+  "course_description": "This course will examine literature and practice regarding community-owned enterprise as an alternative means of increasing community participation and development. The use of cooperatives, credit unions, land trusts, and limited stock ownership enterprises for increasing community participation and empowerment will be examined.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.954",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
